@@ -59,4 +59,4 @@ this image, or with all other json contents, we can write to a text file or plis
 
 Since the task is only about these two screens, I estimate it's an assignment between 2-5 hours. The first screen (including the zooming-out 
 lanch screen) will cost about 30-45 mins. The 2nd screen will be definitely tricky. One of my concerns is that the absolute coordinate of costome
-with Scotch. It might be easily fit when phone size changes. 
+with Scotch. It might not be easily fit between costumes and scotch when phone size changes. 
