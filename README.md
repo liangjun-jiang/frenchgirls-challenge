@@ -58,5 +58,5 @@ API request once the 2nd screen is showing while there is no local cached. Other
 this image, or with all other json contents, we can write to a text file or plist file for the two extra costumes. The images will be files on the disk.
 
 Since the task is only about these two screens, I estimate it's an assignment between 2-5 hours. The first screen (including the zooming-out 
-lanch screen) will cost about 30-45 mins. The 2nd screen will be definitely tricky. One of my concerns is that the absolute coordinate of costome
-with Scotch. It might not be easily fit between costumes and scotch when phone size changes. 
+lanch screen) will cost about 30-45 mins. The 2nd screen will be definitely tricky. One of my concerns is that the x and y coordinate of costome
+with respect to Scotch. It might not be easily fit between costumes and scotch when phone size changes. 
